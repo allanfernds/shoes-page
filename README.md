@@ -4,7 +4,7 @@ Esse Projeto foi desenvolvido para colocar em prática os conhecimentos em HTML 
 
 O Objetivo foi criar uma pagina de produto de um E-commerce usando tecnologias simples como HTML5 e CSS5 além de englobar os conceitos de: como estruturar um layout, técnicas de CSS3 com contêineres e variáveis, como posicionar os elementos com Flexbox.
 
-
+Link: https://allanfernds.github.io/shoes-page/
 ## Tecnologias utilizadas
 * HTML5
 * CSS
